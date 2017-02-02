@@ -1,0 +1,32 @@
+
+ .div {
+    color: lime;
+    font-family: Arial;
+    font-size: 50px;
+ }
+ .content {
+     background-color:red;
+ }
+ #grad {
+  background: linear-gradient(to right, green, blue);
+ }
+ .marquee {
+   color:white;
+ }
+.secgrad:hover {
+  background:linear-gradient(to left, red, yellow);
+}
+.secgrad {
+  background-color:purple;
+}
+#grad:hover {
+  background:linear-gradient(to right, tangerine, green);
+}
+.secgrad {
+ margin-top:10px;
+}
+.bod {
+    background:linear-gradient(red, blue);
+    
+}
+
